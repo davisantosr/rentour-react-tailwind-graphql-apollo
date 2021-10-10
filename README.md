@@ -60,7 +60,7 @@
   
 </p>
 
-Project to rent a small vehicle to make a tour in the city. 
+Project to rent a small vehicle to make a tour in the city. Inspired by [CoderOne](https://www.youtube.com/watch?v=4ELH8CT4J0A&t=923s) YT video 
 
 Here's why:
 * You avoid traffic;
